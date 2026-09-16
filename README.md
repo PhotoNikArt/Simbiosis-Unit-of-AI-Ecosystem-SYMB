@@ -189,7 +189,7 @@ Key modules:
 - `ResourceLedger.sol` — ecological balance
 - `SymbiosisVault.sol` — distribution of benefit
 
-The system is **trust-minimized, not trustless**. Points of trust are listed honestly. $SYMB is not launched.
+The system is **trust-minimized, not trustless**. Points of trust are listed honestly. The $SYMB token is postponed until regulation is resolved and the Simbiosis Ecosystem is fully operational.
 
 ---
 
