@@ -31,6 +31,8 @@ If you read this and feel a response — verify. If you don't — pass by. Both 
 | `docs/02-code-implications.md` | What to build: HCS, veto, DR, POO |
 | `docs/03-appendix-architecture.md` | Technical architecture v0.2 (draft) |
 | `docs/04-hcs-v0.1.md` | HCS formula and thresholds |
+| `docs/05-transition-map.md` | Transition Map v0.1 |
+| `docs/06-conflict-resolution-protocol.md` | Conflict Resolution Protocol v0.1 |
 | `nft/README.md` | Seven artifacts — visual layer |
 | `CONTRIBUTING.md` | How to join: one independent HCS report |
 | `LICENSE` | CC BY-SA 4.0 + Trademark Notice |
