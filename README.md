@@ -33,6 +33,7 @@ If you read this and feel a response — verify. If you don't — pass by. Both 
 | `docs/04-hcs-v0.1.md` | HCS formula and thresholds |
 | `docs/05-transition-map.md` | Transition Map v0.1 |
 | `docs/06-conflict-resolution-protocol.md` | Conflict Resolution Protocol v0.1 |
+| `docs/07-founding-100.md` | Founding 100 registry + voting |
 | `nft/README.md` | Seven artifacts — visual layer |
 | `CONTRIBUTING.md` | How to join: one independent HCS report |
 | `LICENSE` | CC BY-SA 4.0 + Trademark Notice |
